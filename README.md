@@ -24,7 +24,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/CodeWithVirues/NodeJS-Authentication.github.io.git`
+`git clone https://github.com/CodeWithVirues/NodeJS-Authentication.git`
 
 ##### Into the project directory
 
